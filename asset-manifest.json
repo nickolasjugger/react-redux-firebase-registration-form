@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-redux-firebase-registration-form/static/css/main.fab9ce95.chunk.css",
+    "main.js": "/react-redux-firebase-registration-form/static/js/main.2822e64d.chunk.js",
+    "main.js.map": "/react-redux-firebase-registration-form/static/js/main.2822e64d.chunk.js.map",
+    "runtime-main.js": "/react-redux-firebase-registration-form/static/js/runtime-main.c2eff43f.js",
+    "runtime-main.js.map": "/react-redux-firebase-registration-form/static/js/runtime-main.c2eff43f.js.map",
+    "static/js/2.292d2c13.chunk.js": "/react-redux-firebase-registration-form/static/js/2.292d2c13.chunk.js",
+    "static/js/2.292d2c13.chunk.js.map": "/react-redux-firebase-registration-form/static/js/2.292d2c13.chunk.js.map",
+    "index.html": "/react-redux-firebase-registration-form/index.html",
+    "precache-manifest.eae141e8df8881d4566aa9d97de8e653.js": "/react-redux-firebase-registration-form/precache-manifest.eae141e8df8881d4566aa9d97de8e653.js",
+    "service-worker.js": "/react-redux-firebase-registration-form/service-worker.js",
+    "static/css/main.fab9ce95.chunk.css.map": "/react-redux-firebase-registration-form/static/css/main.fab9ce95.chunk.css.map",
+    "static/js/2.292d2c13.chunk.js.LICENSE.txt": "/react-redux-firebase-registration-form/static/js/2.292d2c13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2eff43f.js",
+    "static/js/2.292d2c13.chunk.js",
+    "static/css/main.fab9ce95.chunk.css",
+    "static/js/main.2822e64d.chunk.js"
+  ]
+}
